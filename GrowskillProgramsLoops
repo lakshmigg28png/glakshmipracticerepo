@@ -1,0 +1,6 @@
+git clone <your-repo-url>
+mkdir Programs
+mv *.java Programs/
+git add .
+git commit -m "Add all programs to Programs folder"
+git push
